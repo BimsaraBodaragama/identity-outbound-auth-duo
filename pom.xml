@@ -507,7 +507,7 @@
         <oltu.package.import.version.range>[1.0.0, 2.0.0)</oltu.package.import.version.range>
         <wso2.json>3.0.0.wso2v1</wso2.json>
         <javax.servlet-api.version>3.0-alpha-1</javax.servlet-api.version>
-        <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
+        <imp.pkg.version.javax.servlet>[3.1.0, 4.0.0)</imp.pkg.version.javax.servlet>
         <commons-codec.version>1.4.0.wso2v1</commons-codec.version>
         <axiom.version>1.2.11-wso2v6</axiom.version>
         <commons-lang.wso2.version>2.6.0.wso2v1</commons-lang.wso2.version>
@@ -543,6 +543,6 @@
         <apache.amber.version>0.22.1358727.wso2v4</apache.amber.version>
         <json.version>20231013</json.version>
         <commons-logging.osgi.version.range>[1.2,2.0)</commons-logging.osgi.version.range>
-        <org.json.package.import.version.range>[3.0.0.wso2v1, 4.0.0)</org.json.package.import.version.range>
+        <org.json.package.import.version.range>[3.0.0, 4.0.0)</org.json.package.import.version.range>
     </properties>
 </project>

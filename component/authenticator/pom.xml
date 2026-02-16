@@ -208,6 +208,8 @@
                             com.squareup.okio.*,
                             com.squareup.okhttp.*
                         </Export-Package>
+                        <_noee>true</_noee>
+                        <_contract>!*</_contract>
                     </instructions>
                 </configuration>
             </plugin>
